@@ -1,8 +1,8 @@
 
 import java.util.Scanner;
 
-
-//Prodi : Sistem Informsi 
+//Nama  : Raihan Akbar
+//Prodi : Sistem Informasi 
 
 
 public class praktekTugasSatu {
